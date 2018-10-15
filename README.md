@@ -17,7 +17,7 @@
     - 手刻 RWD 網站，套用第三方套件製作輪播效果。
 - <a href="https://eastm0108.github.io/travel/" target="_blank">高雄旅遊資訊</a>、<a href="https://codepen.io/EastM/pen/pxrbGY" target="_blank">登入、註冊檢測</a>
     - 運用 Bootstrap 排版，串接 Google Map API 、運用 Open Data 轉換成 JSON 資料渲染在網頁上。
-    - 運用 AJAX 獲取遠端資列。
+    - 運用 AJAX 獲取遠端資料。
 - <a href="https://eastm0108.github.io/BMI/" target="_blank">BMI 計算機</a>
     - 運用 Bootstrap 排版，使用 LocalStorage 。 
 - <a href="https://eastm0108.github.io/base0909-2/" target="_blank">街舞、Hip - Hop 介紹</a>
@@ -30,5 +30,5 @@
 --------
 ## 關於我
 - 熱愛熱動跟街舞，有能力時幫助別人。
-- 高中、大學開始打工，在打工中了解團隊合作的重要，在工作時得到客人還有長官賞識 (<a href="https://upload.cc/i1/2018/10/15/U2qIXs.jpg" target="_blank">連結</a>) 。
+- 高中、大學開始打工，在打工中了解團隊合作的重要，在工作時曾得到客人還有長官賞識 (<a href="https://upload.cc/i1/2018/10/15/U2qIXs.jpg" target="_blank">連結</a>) 。
 - 高中當任過熱舞社副社長，在社團管理中我學到分工合作的重要跟做事的執行力。
