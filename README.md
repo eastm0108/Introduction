@@ -6,11 +6,13 @@
 - Phone: 0963-281-878
 ----------
 ## 專業技能
+- Vue.js、Vue CLI 3.0、Vue Router、Vuex
 - 了解 Javascript、ES6 基本語法，並使用 jQuery / CSS3 呈現網頁動態效果。
 - 利用 AJAX 獲取遠端 JSON 資料跟串接第三方 API 呈現在網頁上 ( Google Map、Open Data 等等)。
 - 熟悉 HTML + CSS 並完成 RWD 網頁規劃，並能在不倚賴 CSS Framework 進行 RWD 客製化。
 - SCSS 管理網頁版型。
 - 了解 Git / Github 與基本指令運用。
+
 ---------
 ## 作品集
 - <a href="https://eastm0108.github.io/Game_Rocker/#/" target="_blank">遊戲買賣平台 - Game-Rocker</a>
