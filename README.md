@@ -13,19 +13,24 @@
 - 了解 Git / Github 與基本指令運用。
 ---------
 ## 作品集
-- <a href="https://eastm0108.github.io/travel/" target="_blank">高雄旅遊資訊</a>、<a href="https://codepen.io/EastM/pen/pxrbGY" target="_blank">登入、註冊檢測</a>
-    - 運用 Bootstrap 排版，串接 Google Map API 、運用 Open Data 轉換成 JSON 資料渲染在網頁上。
-    - 運用 AJAX 獲取遠端資料。
-- <a href="https://eastm0108.github.io/East-With-You/" target="_blank">快速訂餐外送 | Eat - With - You</a>
-    - 手刻 RWD 網站，套用第三方套件製作輪播效果。
-- <a href="https://eastm0108.github.io/BMI/" target="_blank">BMI 計算機</a>
-    - 運用 Bootstrap 排版，使用 LocalStorage 。 
-- <a href="https://eastm0108.github.io/base0909-2/" target="_blank">街舞、Hip - Hop 介紹</a>
-    - 視差滾動效果。
+- <a href="https://eastm0108.github.io/Game_Rocker/#/" target="_blank">遊戲買賣平台 - Game-Rocker</a>
+    - 前台：商品查詢和介紹、購物車功能、下單、結帳資訊、管理員登入 。
+    - 後台：產品管理（新增 / 修改 / 刪除）、訂單管理、優惠券管理、模擬流程。
+    > 技術：SPA 、Vue CLI 、Vue Router、Vuex、插件運用、SCSS 管理樣式。
+- <a href="https://eastm0108.github.io/admin-demo/" target="_blank">訂單後台介面</a>
+    - 使用 ES6。
+    - 整合 JS 套件 (C3.js 視覺圖表)。
+    - 運用 Bootstrap 排版。
+    - SCSS 管理樣式。
+- <a href="https://eastm0108.github.io/East-With-You/" target="_blank">訂餐外送 - East-With-You</a>
+    - 純手刻 RWD 版型。
+    - jQuery 套用第三方套件。
+    - Meta Tag 設計。
+    - 嵌入 Google Map。
 ---------
 ## 未來計劃
 - 增進英文能力，讓自己可以更快速吸收國外前端資訊。
-- 學習 Vue.js 前端框架，讓自己可以駕輕就熟。
+- 精進 Vue.js 前端框架，讓自己可以駕輕就熟。
 - 學習 PWA  應用範圍內的技能。
 --------
 ## 關於我
